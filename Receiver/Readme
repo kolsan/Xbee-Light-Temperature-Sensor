@@ -1,0 +1,2 @@
+This sensor receives the information about the temperature and light using a Xbee provided by digi. Using the values 
+transform them to something like ancient indicatos but using servos.
